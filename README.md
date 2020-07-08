@@ -1,5 +1,5 @@
 
-#### [*REGISTRATION*](#registration-1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [*LESSONS*](#lessons-1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [*ABOUT CHICODE*](#about-chicode-1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [*FAQ*](#frq-1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [*MEET THE TEAM*](#meet-the-team-1) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [*SUPPORT AND CONTACT*](#support--contact)
+#### [*REGISTRATION*](#registration)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [*LESSONS*](#lessons)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [*ABOUT CHICODE*](#about-chicode)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [*FAQ*](#faq)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [*MEET THE TEAM*](#meet-the-team) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [*SUPPORT AND CONTACT*](#support--contact)
 
 
 -------------------
